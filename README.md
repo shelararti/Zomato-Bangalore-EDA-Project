@@ -36,17 +36,8 @@ This project performs **Exploratory Data Analysis (EDA)** on the Zomato Bangalor
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/zomato-bangalore-eda.git
-   cd zomato-bangalore-eda
+   git clone https://github.com/shelararti/Zomato-Bangalore-EDA-Project.git
+   cd Zomato-Bangalore-EDA_Project
 
 
 ---
-
-## 👌 **Next Steps**
-
-If you want, I can also generate:
-- `requirements.txt`
-- `environment.yml` for Conda
-- A starter `.gitignore`
-
-Just say **“Yes, drop them”** — I’ll prep them instantly. 🚀
